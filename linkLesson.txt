@@ -1,0 +1,26 @@
+1. GIT https://www.youtube.com/live/8Udwdb2Mbd4
+roadmap https://edu.cbsystematics.com/ua/roadmap
+
+Git початкове налаштування
+https://lnnk.in/gLoQ
+
+git init	ініціалізація репозиторію
+git add .	стейджинг файлів
+git commit -m "first	commit”	коміт файлів
+git remote add	origin	"https://github.com/xxxxxxxxxx” прив'язка віддаленого репозиторію
+git push —u origin master	відправка комітів у віддалений репозиторій
+
+1 Open VSC. Open folder D:/Cursy/2024/JavaScript
+2 Create file index.html. Набираю htm - вибираю з шаблону html:5
+3 Change file 
+ <title>My page</title>
+<link href = "styles.css" rel="stylesheet">
+</head>
+<body>
+    <p>Hello world!</p>
+</body>
+4 Create styles.css
+p {
+    color: red;
+}
+4 Запускаю командний рядок
